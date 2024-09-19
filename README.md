@@ -19,7 +19,7 @@ Developed as an academic project by:
 The application should allow admins to :
 <ul>
   <li>manage the users (student,professors,admins)</li>
-  <li>accept/deny internship demandes submitted by students ⚠ in progress</li>
+  <li>accept/deny internship requests submitted by students ⚠ in progress</li>
   <li>post internship offers for students</li>
   <li>plan the poster session ⚠ in progress</li>
   <li>review the posters ⚠ in progress</li>
