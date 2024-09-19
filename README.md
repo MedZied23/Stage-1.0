@@ -78,5 +78,5 @@ Review offers:
 <ul>
   <li>Posting offers by the admin</li>
   <li>Management of Poster Sessions</li>
-  <li>Management Internship demandes</li>
+  <li>Management Internship requests</li>
 </ul>
