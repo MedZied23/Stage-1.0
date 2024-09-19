@@ -27,7 +27,7 @@ The application should allow admins to :
 
 The application should allow students to :
 <ul>
-  <li>post internship demandes</li>
+  <li>post internship requests</li>
   <li>review the internship offers available</li>
   <li>post and review the posters ⚠ in progress</li>
 </ul>
