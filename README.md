@@ -3,8 +3,8 @@
 Developed as an academic project by:
 <ul>
   <li>Ayoub ZERDOUM</li>
-  <li>Dhia BOUAZIZ</li>
   <li>Mohamed Zied BOUOUD</li>
+  <li>Dhia BOUAZIZ</li>
   <li>Abderrahmen Ghroubi</li>
 </ul>
 
